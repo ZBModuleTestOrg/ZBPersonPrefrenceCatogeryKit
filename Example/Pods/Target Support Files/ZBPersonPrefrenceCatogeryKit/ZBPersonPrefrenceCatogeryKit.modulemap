@@ -1,0 +1,6 @@
+framework module ZBPersonPrefrenceCatogeryKit {
+  umbrella header "ZBPersonPrefrenceCatogeryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

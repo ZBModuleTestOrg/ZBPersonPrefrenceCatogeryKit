@@ -1,0 +1,27 @@
+{
+  "name": "ZBPersonPrefrenceCatogeryKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZBPersonPrefrenceCatogeryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SXDgit/ZBPersonPrefrenceCatogeryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SXDgit": "1029520524@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/SXDgit/ZBPersonPrefrenceCatogeryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZBPersonPrefrenceCatogeryKit/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}

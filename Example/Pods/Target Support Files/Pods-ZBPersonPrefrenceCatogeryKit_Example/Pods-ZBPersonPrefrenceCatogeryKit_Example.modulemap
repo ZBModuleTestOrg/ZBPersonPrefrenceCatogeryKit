@@ -1,0 +1,6 @@
+framework module Pods_ZBPersonPrefrenceCatogeryKit_Example {
+  umbrella header "Pods-ZBPersonPrefrenceCatogeryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,23 @@
+PODS:
+  - CTMediator (32)
+  - ZBPersonPrefrenceCatogeryKit (0.1.0):
+    - CTMediator
+
+DEPENDENCIES:
+  - ZBPersonPrefrenceCatogeryKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  ZBPersonPrefrenceCatogeryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTMediator: 10f2c387be0ab2061b75b88c86f9903eedba1ce8
+  ZBPersonPrefrenceCatogeryKit: f3a00bcc3f038eecc8004b98e801be79afb9622f
+
+PODFILE CHECKSUM: efe97bc78a4eda735c44e14cd48827dd572cde98
+
+COCOAPODS: 1.9.1
