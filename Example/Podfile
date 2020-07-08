@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZBPersonPrefrenceCatogeryKit_Example' do
+  pod 'ZBPersonPrefrenceCatogeryKit', :path => '../'
+
+  target 'ZBPersonPrefrenceCatogeryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
